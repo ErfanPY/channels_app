@@ -11,18 +11,15 @@ What did you learn?\
 What makes your project stand out? If your project has a lot of features, consider adding a "Features"  section and listing them here.\ -->
 
 ## Technologies
----
 Project is created with:
 * Django version: 3.2.9
 * Channels version: 3.0.4
 
 ## Features
----
 * Group chat
 * Real-time communication with WebSocket
 
 ## Install
----
    ```sh
    git clone https://github.com/ErfanPY/channels_app.git
    cd channels_app
@@ -30,7 +27,6 @@ Project is created with:
    ```
 
 ## Usage
----
    ```sh
    cd chatproj
    python3 manage.py runserver
@@ -39,7 +35,6 @@ Project is created with:
 <!-- Add some images -->
 
 ## TODO
----
  - [X] Group chat
  - [ ] Authentication
  - [ ] Chats list
