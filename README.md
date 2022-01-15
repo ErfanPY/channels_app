@@ -36,6 +36,7 @@ Project is created with:
 
 ## TODO
  - [X] Group chat
+ - [ ] Provide some screenshots for README
  - [ ] Authentication
  - [ ] Chats list
  - [ ] Front-end for group chat
